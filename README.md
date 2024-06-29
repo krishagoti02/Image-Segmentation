@@ -23,7 +23,7 @@ To count the number of object instances in images by leveraging image segmentati
 3. Install Dependencies:
        pip install -r requirements.txt
 
-4. Run the Script:
+4. Run the Script
 
 **Requirements**
 - Python 3.x
